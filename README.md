@@ -29,7 +29,7 @@ Para ejecutar las simulaciones, necesitás Python 3.x y las siguientes librería
 
 ```bash
 pip install numpy pandas matplotlib scipy numba scikit-learn tqdm
-
+```
 ### Resultados:
 * Red cuadrada: Simulación de la red cuadrada de tamaños $L**2$, se obtuvieron los resultados vistos en la siguiente imagen
 <img width="1164" height="972" alt="image" src="https://github.com/user-attachments/assets/96456e92-2ce7-40be-899a-c99c0e93ee34" />
@@ -43,6 +43,6 @@ En la siguiente imagen se comparan las curvas teóricas de Onsager respectos de 
 
 ### Autores:
 
-Luis Diaz - Estudiante de Licenciatura en Ciencias Físicas, UBA
-Sergio Stedile - Estudiante de Licenciatura en Ciencias Físicas, UBA
-Julieta Perez Lanzillotta
+* Luis Diaz - Estudiante de Licenciatura en Ciencias Físicas, UBA
+* Sergio Stedile - Estudiante de Licenciatura en Ciencias Físicas, UBA
+* Julieta Perez Lanzillotta - Estudiante de Licenciatura en Ciencias Físicas, UBA
